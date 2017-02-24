@@ -485,7 +485,7 @@ header h1 {
 }
 
 .read-more-state {
-  display: none;
+  display: inline-block;
 }
 
 .read-more-target {
